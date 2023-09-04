@@ -3,7 +3,7 @@
 </H3>
 <H3>2nd TEAM PROJECT</H3>
 <H3>공부일지</H3>
-<H1>📚SKIL</H1><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title>
+<H1>📚SKIL</H1><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 </svg>
 
 잘가요
