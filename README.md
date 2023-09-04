@@ -7,7 +7,11 @@
 
 <H3>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></H3>
-
+<H3>Programming </H3>
+<H3>DBMS </H3>
+<H3>WEB </H3>
+<H3>EB programming</H3>
+<h3>framework  </h3>
 <!--
 **reversejin0209/reversejin0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
