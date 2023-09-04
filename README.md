@@ -1,6 +1,6 @@
 <H1>LINK</H1>
-## 1st PERSONAL PROJECT 
-## 2nd TEAM PROJECT 
+##1st PERSONAL PROJECT 
+##2nd TEAM PROJECT 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <!--
 **reversejin0209/reversejin0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
