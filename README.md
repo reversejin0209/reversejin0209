@@ -6,8 +6,9 @@
 <H1>📚SKIL</H1><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 </svg>
 
-잘가요
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<H3>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></H3>
+
 <!--
 **reversejin0209/reversejin0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
