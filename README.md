@@ -1,5 +1,5 @@
 <H1>LINK</H1>
-<H3>1st PERSONAL PROJECT <img src="https://img.shields.io/badge/OCL[학급관리시스템]-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<H3>1st PERSONAL PROJECT <img src="https://img.shields.io/badge/OCL[학급관리시스템]-3178C6?style=flat&logo=github&logoColor=white"/>
 </H3>
 <H3>2nd TEAM PROJECT</H3>
 <H3>공부일지</H3>
