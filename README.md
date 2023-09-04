@@ -1,6 +1,6 @@
 <H1>LINK</H1>
-<H2>1st PERSONAL PROJECT </H2>
-<H2>2nd TEAM PROJECT </H2>
+\<H2>1st PERSONAL PROJECT </H2>
+\<H2>2nd TEAM PROJECT </H2>
 <H1>📚SKIL</H1>
 
 잘가요
