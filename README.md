@@ -5,7 +5,7 @@
 <H1>📚SKIL</H1><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 </svg>
 <H3>Programming</H3>
-<H3>DBMS <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/OCL[학급관리시스템]-3178C6?style=for-the-badge&logo=github&logoColor=white"/></H3>
+<H3>DBMS <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/OCL[학급관리시스템]-3178C6?style=for-the-badge&logo=oracle&logoColor=white"/></H3>
 <H3>WEB </H3>
 <H3>EB programming</H3>
 <h3>framework  </h3>
